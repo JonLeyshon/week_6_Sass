@@ -1,2 +1,2 @@
-# week_7_Sass
-Homework from Jump bootcamp Week 7 SASS (attack on titan page)
+# week_6_Sass
+Homework from Jump bootcamp Week 6 SASS (attack on titan page)
